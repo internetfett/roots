@@ -1,3 +1,7 @@
+## InternetFett's fork
+
+Forked to create Grunt-less version for clients who want to edit their own CSS.
+
 # [Roots Theme](http://roots.io/)
 
 Roots is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boilerplate.com/) & [Bootstrap](http://getbootstrap.com/) that will help you make better themes.
